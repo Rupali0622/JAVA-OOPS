@@ -9,6 +9,9 @@ public class Test {
         System.out.println("Homeloan= " + rbi.homeLoanInterest());
         System.out.println("Personalloan= " + rbi.personalLoanInterest());
         System.out.println("Savinginterest= " + rbi.savingInterest());
+        class hello{
+
+        }
 
     }
     public RBI getBank (String bank){
