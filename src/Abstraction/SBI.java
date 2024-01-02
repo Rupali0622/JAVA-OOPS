@@ -17,4 +17,9 @@ public class SBI implements RBI{
     public float savingInterest() {
         return 1.3f;
     }
+
+    @Override
+    public float checkammountno() {
+        return 0;
+    }
 }

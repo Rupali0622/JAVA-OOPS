@@ -15,4 +15,9 @@ public class HDFC implements RBI{
     public float savingInterest() {
         return 3.3f;
     }
+
+    @Override
+    public float checkammountno() {
+        return 0;
+    }
 }

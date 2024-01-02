@@ -14,4 +14,9 @@ public class PNB implements RBI{
     public float savingInterest(){
         return 2.3f;
     }
+
+    @Override
+    public float checkammountno() {
+        return 0;
+    }
 }
