@@ -6,7 +6,7 @@ public class trycatch {
         try {
             System.out.println("String = "+s.length());
 
-        }catch(NullPointerException n1){ //reference of object class NullPointerException
+        }catch(NullPointerException n1){ //reference of object class Null
 
             System.out.println(n1.fillInStackTrace());
         }
