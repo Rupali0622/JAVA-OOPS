@@ -6,4 +6,5 @@ public interface RBI {
     float savingInterest();
     float checkammountno();
 
+
 }
